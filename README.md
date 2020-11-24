@@ -1,2 +1,2 @@
 # MOOC platform client
-A2 distributed systems lab client
+A4 distributed systems lab client
